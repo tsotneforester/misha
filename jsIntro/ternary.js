@@ -6,12 +6,12 @@ console.log(discountEligible); //Eligible
 // according to this example write theese challenges
 
 //🔰 Write a ternary operator that checks if a person can vote (18+)
-const age = 17;
+const age1 = 17;
 let canVote; //= .....
 console.log(canVote);
 
 //🔰 Check if a person is an adult (18 or older), isAdult must be Boolean
-const age = 15;
+const age2 = 15;
 let isAdult; //= .....
 console.log(isAdult);
 
@@ -26,9 +26,6 @@ const number = 7;
 let numberStatus; //= .....
 console.log(numberStatus); // Your code here (should output "Odd")
 // Hint: if number devides on 2 without modulo, it is even
-
-// Return "Good morning" if hour is before 12, otherwise "Good afternoon"
-const hour = 9;
 
 //🔰  Return "Good morning" if hour is before 12, otherwise "Good afternoon"
 const hour = 9;
