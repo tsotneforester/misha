@@ -20,15 +20,15 @@ Go to the Link, Select **ONLY ONE** chapter, start quiz and submit it to your ma
 
 | Quiz Theme | Chapter     |status|
 | :--------- | :----       |:----:|
-| HTML       | HTML        |⏳ |
+| [HTML](/html+css)       | HTML        |⏳ |
 | CSS        | background  |🚫 |
-|            | box model   |⏳ |
+|            | box model   |🚫 |
 |            | css basics  |🚫 |
-|            | flex        |⏳ |
-|            | font        |⏳ |
+|            | flex        |🚫 |
+|            | font        |🚫 |
 |            | grid        |🚫|
-|            | position    |⏳ |
-|            | selector    |⏳ |
-|            | transform   |⏳ |
-|            | transition  |⏳ |
+|            | position    |🚫 |
+|            | selector    |🚫 |
+|            | transform   |🚫 |
+|            | transition  |🚫 |
 
