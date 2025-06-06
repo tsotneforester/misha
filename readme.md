@@ -18,17 +18,9 @@
 
 Go to the Link, Select **ONLY ONE** chapter, start quiz and submit it to your mail
 
-| Quiz Theme | Chapter     |status|
-| :--------- | :----       |:----:|
-| [HTML](/html+css)       | HTML        |⏳ |
-| CSS        | background  |🚫 |
-|            | box model   |🚫 |
-|            | css basics  |🚫 |
-|            | flex        |🚫 |
-|            | font        |🚫 |
-|            | grid        |🚫|
-|            | position    |🚫 |
-|            | selector    |🚫 |
-|            | transform   |🚫 |
-|            | transition  |🚫 |
+| Quiz Theme            |status|
+| :---------            | :----:|
+| [html+css](/html+css) |    ⏳ |
+| js                    | 🚫 |
+
 
