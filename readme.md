@@ -8,7 +8,7 @@
 | name                  | task | quiz |
 | :-------------------- | :--: | :--: |
 | [html+css](/html+css) |  ⏳  |  ⏳  |
-| [loop](/loop)         |  🚫  |  🚫  |
+| [loop](/loop)         |  🚫  |  🚫 |
 | [jsIntro](/jsIntro)   |  ⏳  |  🚫  |
 
 <!-- [HTML, CSS Quizes](https://infinitejs.geojs.one/extra/quizgenerator)
